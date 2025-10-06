@@ -1,0 +1,94 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(to right, #fce4ec, #e3f2fd);
+    margin: 0;
+    padding: 30px;
+  }
+  
+  .cv-container {
+    background: #fff;
+    max-width: 950px;
+    margin: 0 auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+    padding: 50px 60px;
+  }
+  
+  .header {
+    text-align: center;
+    border-bottom: 3px solid #f48fb1;
+    padding-bottom: 20px;
+  }
+  
+  .header h1 {
+    color: #e91e63;
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  .header p {
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .section {
+    margin-top: 35px;
+  }
+  
+  .section h2 {
+    color: #e91e63;
+    border-bottom: 2px solid #f48fb1;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  
+  .section ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  .section li {
+    margin-bottom: 8px;
+    color: #444;
+  }
+  
+  .job, .edu {
+    margin-bottom: 25px;
+  }
+  
+  .job h3, .edu h3 {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .job span, .edu span {
+    color: #999;
+    font-size: 14px;
+    font-style: italic;
+  }
+  
+  .job p, .edu p {
+    color: #555;
+    margin: 5px 0 10px 0;
+    line-height: 1.5;
+  }
+  
+  footer {
+    text-align: center;
+    color: #999;
+    margin-top: 50px;
+    font-size: 14px;
+  }
+  .avatar {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #f48fb1;
+    display: block;
+    margin: 20px auto;
+  }
+    
